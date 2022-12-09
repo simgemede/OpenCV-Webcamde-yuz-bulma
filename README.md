@@ -1,1 +1,1 @@
-# OpenCV-Webcamde-Yuz-Bulma
+# OpenCV Webcamde yuz bulma
